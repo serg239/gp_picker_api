@@ -29,8 +29,8 @@ from pathlib import Path
 import piexif
 
 # EXIF Personification
-COPYRIGHT_TEXT = "©2025, Sergiy Zaytsev. All rights reserved."
-ARTIST_TEXT = "Sergiy Zaytsev (https://zayarts.com)"
+COPYRIGHT_TEXT = "©2025, <name>. All rights reserved."
+ARTIST_TEXT = "<name> (<email>)"
 
 # Solution 1.
 def fix_exif_types(exif_dict: dict) -> dict:
