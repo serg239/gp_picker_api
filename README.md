@@ -1,4 +1,4 @@
-# Google takeout photos selected in browser  
+# Google Takeout Photos [Google Photos Picker API]  
 This implementation provides a complete solution for integrating<br>
 Google Photos Picker functionality into your application.
 
